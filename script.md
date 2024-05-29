@@ -265,7 +265,7 @@ Cyber 在如今常常被指向另一个概念，网络技术。也基于此衍�
 
 
 
-## Referencd
+## 参考
 
 [控制论假说](https://zhuanlan.zhihu.com/p/430964919)
 
